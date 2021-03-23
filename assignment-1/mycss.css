@@ -1,0 +1,90 @@
+body{
+    font-family: Arial;
+    margin: 0px 0px 0px 0px;
+    background-color: white;
+}
+.logo{
+    background-color:white;
+    padding: 10px 0px 10px 37px;
+    float: left;
+}
+
+
+.menu_sec{
+    background-color:white;
+    padding: 10px 0px 10px 0px;
+    float: right;
+    display: flex;
+    
+}
+
+.menu_sec li{
+    padding-right:50px;
+    list-style: none;
+}
+
+.menu_sec li:hover{
+    color:#fd426c;
+    cursor: pointer;
+}
+.banner{
+    width:100%;
+}
+
+.info-sec{
+background-image: url(..\assignment-1\bg.jpg);
+padding: 10px 10px 10px 50px;
+box-sizing: border-box;
+}
+
+.column1 {
+        float: left;
+        width: 50%;
+        padding: 10px;
+      }
+
+.sub-head{
+   color:#FF3E6E;
+}
+
+.paragraph-text{
+    width: 70%;
+    text-align: justify;
+}
+
+.column {
+    margin-top:-30px;
+    float: left;
+    width: 20.5%;
+
+    background-color: #FD426C;
+    
+  }
+
+  .one{
+      padding-left:50px;
+      padding-top:30px;
+    }
+
+    .two{
+        padding-left:50px;
+        padding-top:30px;
+      }
+
+      .three{
+        padding-left:50px;
+        padding-top:30px;
+      }
+
+      .four{
+        padding-left:50px;
+        padding-top:30px;
+      }
+
+
+  
+
+
+
+
+
